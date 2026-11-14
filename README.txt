@@ -1,14 +1,26 @@
-POOJA VERMA PORTFOLIO — 6 PROJECT PAGES
+POOJA VERMA PORTFOLIO — GITHUB PAGES READY
 
-Files:
-- index.html: main portfolio page
-- projects/project-1.html through project-6.html: individual project detail pages
+UPLOAD INSTRUCTIONS
+1. Extract this ZIP on your computer.
+2. Open your GitHub repository: poojakripoo/home
+3. Upload ALL files from this folder directly into the repository root (same level as README.txt).
+4. Replace the existing index.html and project-1.html through project-6.html when GitHub asks.
+5. Keep pooja.jpg in the repository root; do not delete it. If it is not included in this ZIP, leave your existing pooja.jpg untouched.
+6. Commit changes to the main branch. GitHub Pages should use main / (root) in Settings > Pages.
+7. After deployment, hard-refresh the site with Ctrl+Shift+R.
 
-How to use:
-1. Keep the index.html file and the projects folder together.
-2. Open index.html in a browser.
-3. Click any project card in Featured Case Studies to open its separate page.
-4. Replace the DEMO text and sample descriptions with your actual project details.
-5. Upload the whole folder to your hosting/server, preserving the folder structure.
+EXPECTED REPOSITORY STRUCTURE
+index.html
+project-1.html
+project-2.html
+project-3.html
+project-4.html
+project-5.html
+project-6.html
+pooja.jpg (keep your existing image)
 
-Note: Demo case-study copy is illustrative and does not claim verified client results.
+All six project cards use full-card clickable links to the matching root-level HTML files.
+Each project page has an All Projects link back to https://poojakripoo.github.io/home/#cases.
+
+IMPORTANT
+The six project pages contain demo/sample case-study copy. Replace it with verified project details and approved results before presenting it as actual client work.
